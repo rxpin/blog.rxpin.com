@@ -8,17 +8,17 @@ Autistic children may show behaviors such as not keeping eye contact, no respons
 
 ## Symptoms of Autism
 Autism symptoms are mainly shown before the age of three. Some common signs are:
-1. Challenges on social communication:
+#### 1. Challenges on social communication
 - They have difficulty in  understanding social signals and body languages.
 - They keep limited eye contact and show less facial expressions.
 - They have challenges in maintaining relationships.
 
-2. Having repetitive behaviors:
+#### 2. Having repetitive behaviors
 - They repeat certain behaviors or have specific routines.
 - They have intense interest in particular topics or activities.
 - They are very sensitive to some sensory input such as lights, sounds, and textures.
 
-3. Difficulty in communicating:
+#### 3. Difficulty in communicating
 - They have delayed speech and language skills.
 - They won’t have usual speech patterns like normal children.
 
@@ -26,44 +26,49 @@ Autism symptoms are mainly shown before the age of three. Some common signs are:
 ## Diagnosing for Autism
 Diagnosing autism needs a team of specialists, which may include a psychologist, neurologist, psychiatrist, and speech therapist.
 The diagnostic process includes:
-1. Screen Development:
+#### 1. Screen Development
 - They need regular check-ups during early childhood for monitoring development.
 
-2. Comprehensive Evaluation:
+#### 2. Comprehensive Evaluation
 - Should have detailed observations of behavior.
 - Should conduct interviews with parents and caregivers.
 
 ## Treatments for Autism
 While there is no cure for autism, early arbitration and tailored support can get good outcomes. Treatment plans are mostly individualized. Treatments may include:
 
-1. Behavioral Therapy:
+#### 1. Behavioral Therapy
+
 This therapy includes social skills training to improve interaction abilities.
 
-2. Speech and Language Therapy:
+#### 2. Speech and Language Therapy
+
 It enhances communication skills and language development.
 
-3. Occupational Therapy:
+#### 3. Occupational Therapy
+
 It assists with daily living skills and sensory integration.
 
-4. Educational Therapy :
+#### 4. Educational Therapy
+
 It conducts Individualized Education Programs (IEPs) to provide unique learning needs.
 
-5. Music Therapy 
+#### 5. Music Therapy 
+
 It uses music or elements of music to achieve goals like stress reduction or improvement of quality life.
 
 
 ## Points to Support Individuals with Autism
 We should create a supportive environment which is very important for individuals with autism to thrive. Here are some ways to offer support:
 
-1. Accept and Understand:
+#### 1. Accept and Understand
 - We should educate ourselves and others about autism.
 - Showing patience and empathy to autistic children.
 
-2. Encourage them to be independent:
+#### 2. Encourage them to be independent
 - Give knowledge and provide opportunities of self-advocacy and decision-making.
 - Celebrate their small achievements, no matter how small it is.
 
-3. Support of family and Self-Care too:
+#### 3. Support of family and Self-Care too
 - Have connections with supportive groups and resources for families.
 - We should take care of our own mental and physical health too.
 
