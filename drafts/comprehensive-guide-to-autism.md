@@ -20,7 +20,7 @@ Difficulty in communicating:
 They have delayed speech and language skills.
 They won’t have usual speech patterns like normal children.
 
-Diagnosing for Autism
+##Diagnosing for Autism
 Diagnosing autism needs a team of specialists, which may include a psychologist, neurologist, psychiatrist, and speech therapist.
 The diagnostic process includes:
 Screen Development:
@@ -29,7 +29,7 @@ Comprehensive Evaluation:
 Should have detailed observations of behavior.
 Should conduct interviews with parents and caregivers.
 
-Treatments for Autism
+##Treatments for Autism
 While there is no cure for autism, early arbitration and tailored support can get good outcomes. Treatment plans are mostly individualized. Treatments may include:
 Behavioral Therapy:
 This therapy includes social skills training to improve interaction abilities.
@@ -44,7 +44,7 @@ It uses music or elements of music to achieve goals like stress reduction or imp
 
 
 
-Points to Support Individuals with Autism
+##Points to Support Individuals with Autism
 We should create a supportive environment which is very important for individuals with autism to thrive. Here are some ways to offer support:
 Accept and Understand:
 We should educate ourselves and others about autism.
@@ -56,6 +56,6 @@ Support of family and Self-Care too:
 Have connections with supportive groups and resources for families.
 We should take care of our own mental and physical health too.
 
-Conclusion
+##Conclusion
 In nutshell, autism is a never ending journey though it can lead fulfilling lives of autistic children with the right support. We alone cannot totally change autism but we can change our behaviors toward them.
 Be kind to everyone!
