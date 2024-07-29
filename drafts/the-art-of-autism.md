@@ -9,24 +9,29 @@ Art becomes a crucial means of communication for those on the spectrum, offering
 
 ## Distinctive Characteristics of Autistic Art
 Autistic art created by individuals often stands out due to its distinctive qualities:
-Having attention to Detail
+
+### 1. Having attention to Detail
 Most autistic artists are born with an extraordinary attention to detail. Their works often feature complex patterns, brilliant colors, and exacting precision that captivates viewers.
-Create unique Perspectives 
+
+### 2. Create unique Perspectives 
 Autistic artists offer fresh and unconventional perspectives. Their art can challenge conventional aesthetics and invite viewers to see the world through a different lens.
-Emotional expressions 
+
+### 3. Emotional expressions 
 Art can be an intense emotional outlet for individuals with autism. Through their creations, they can convey deep feelings and complex inner worlds, offering insight into their experiences.
 
-Repetitive elements
+### 4. Repetitive elements
 Some autistic artists explore repetitive themes, which can be both a reflection of their interests and a therapeutic practice.
 
 ## Notable Autistic Artists
-Several autistic artists have gained recognition for their exceptional contributions to the art world. Here are few examples:
-Stephen Wiltshire
+Several autistic artists have gained recognition for their exceptional contributions to the art world. Here are few examples: 
+
+#### Stephen Wiltshire
 Wiltshire is renowned for his ability to draw detailed cityscapes from memory after only brief observation. His works have been exhibited globally, showcasing his incredible talent and photographic memory.
 
-Jessica Park
+#### Jessica Park
 Park's vibrant paintings often depict architectural landmarks and celestial themes. Her use of color and detail has garnered admiration and highlights her unique artistic vision.
-Donna Williams
+
+#### Donna Williams
 An accomplished artist, author, and musician, Williams explored themes of identity and sensory experiences in her work, offering a deeply personal perspective on life with autism.
 
 ## The Role of Art in Autism Advocacy
