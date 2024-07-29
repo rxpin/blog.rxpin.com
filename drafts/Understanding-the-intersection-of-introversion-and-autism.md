@@ -24,8 +24,8 @@ Autism Spectrum Disorder (ASD) is a broad range of conditions that is characteri
 People having autism have distinctive ways of interacting with the world, as the condition affects each person dissimilarly.
 
 Every autistic child has a different nature - how they react from mild to severe.
-
 #### Introversion is a personality trait, while ASD is a neurodevelopmental condition.
+
 
 ## How can introversion and ASD intersect?
 - Some individuals with ASD may also be introverted, preferring solitary activities or small social circles.
