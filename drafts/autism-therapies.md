@@ -1,12 +1,12 @@
 # Autism Therapies: A Brief Explanation 
 ## Repair your body, Restore your life!!!
 
-## Date: 21 June, 2024
+Date: 21 June, 2024
 
 Autism Spectrum Disorder (ASD), also known as autism,  is a neurodevelopmental condition that affects the behavior of children and social communication. There is no one-size-fits-all type of treatment for autism. Treatment plans are mostly individualized though early arbitration and tailored support can get good outcomes. Here’s a brief overview of some common therapies used to support individuals with autism.
 
 ## Applied Behavior Analysis (ABA) 
-It focuses on improving specific behaviors such as social skills, communication, and academics, using techniques such as positive reinforcement.
+- It focuses on improving specific behaviors such as social skills, communication, and academics, using techniques such as positive reinforcement.
 Learn more… 
 
 ## Cognitive Behavioral Therapy
