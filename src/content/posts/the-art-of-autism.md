@@ -1,3 +1,15 @@
+---
+pubDate: 2024-08-01
+author: Stuti S.
+title: Because the universe needed a framework
+description: "Embark on a cosmic journey with astro.js, the framework that makes interstellar development a breeze. Pair it with Tailwind CSS for a design that's out of this world"
+image:
+  url: "https://images.unsplash.com/photo-1618580747643-7ecc7240ba4e?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  alt: "#"
+tags: ["HTML", "Tailwind"]
+---
+
+
 # The Art of Autism: Unlocking Creativity And Breaking Barriers
 
 Autism Spectrum Disorder (ASD) is frequently discussed in terms of its challenges and differences, yet there is a flourishing appreciation for the intense creativity and distinctive artistic expressions that come from individuals on the spectrum. The art of autism is a powerful medium that transcends mere self-expression. It breaks down barriers, challenges misconceptions, and introduces a unique perspective to the world of creativity.
