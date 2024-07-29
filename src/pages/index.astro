@@ -17,10 +17,10 @@ const sortedPosts = allPosts.sort(
   <Hero />
   <section>
     <div class="px-8 md:px-12 mx-auto max-w-7xl py-12 lg:px-32">
-      <ol role="list" class="flex flex-wrap gap-3">
+      <ol role="list" class="flex flex-wrap gap-3 bg-teal-100">
         {
           tags.map((tag) => (
-            <li class="inline-flex items-center uppercase mx-auto hover:text-blue-500 text-xs font-medium text-black">
+            <li class="inline-flex items-center uppercase mx-auto hover:text-black text-lg text-teal-500">
               <a href={`/tags/${tag}`}>{tag}</a>
             </li>
           ))
