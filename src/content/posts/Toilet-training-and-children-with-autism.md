@@ -107,7 +107,9 @@ To ensure a cohesive and supportive approach, make sure to maintain confidential
 
 ## Conclusion
 <br>
-Toilet training children with autism necessitates a thoughtful, strategic approach. By understanding the unique challenges and implementing tailored strategies, parents, caregivers, and professionals can facilitate a smoother transition and achieve successful outcomes. It may be complex, but with patience, collaboration, and empathy, children can reach this milestone which is essential with support and confidence.
+Toilet training children with autism necessitates a thoughtful, strategic approach. By understanding the unique challenges and implementing tailored strategies, parents, caregivers, and professionals can facilitate a smoother transition and achieve successful outcomes. 
+<br>
+It may be complex, but with patience, collaboration, and empathy, children can reach this milestone which is essential with support and confidence.
 
 <br>
 
