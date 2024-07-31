@@ -23,25 +23,33 @@ tags: ["HTML", "Tailwind"]
 
 ## Understanding the unique challenges
 
-** **When it comes to toilet training, children with autism may face a variety of challenges, some of which are discussed below:
+When it comes to toilet training, children with autism may face a variety of challenges, some of which are discussed below:
 
 ### 1. Sensitive to sensory issues: 
 Problems regarding the sounds, smells, and sensations associated with using the toilet which can be overwhelming. 
 <br>
-The echoing flush, the abrupt change in temperature, the strong scents of cleaning agents, and even the feel of the toilet seat can create a sensory overload. These elements, which might go unnoticed by most, can become significant obstacles, contributing to anxiety and discomfort.
+The echoing flush, the abrupt change in temperature, the strong scents of cleaning agents, and even the feel of the toilet seat can create a sensory overload. 
+<br>
+These elements, which might go unnoticed by most, can become significant obstacles, contributing to anxiety and discomfort.
 
 ### 2. Barriers to communication:
-Difficulty expressing the need to use the toilet or understanding instructions can complicate the process. For a child with autism, verbalizing the urge to go or even recognizing it can be challenging. They might not have the words or the confidence to communicate their needs, leading to frustration and accidents.
+Difficulty expressing the need to use the toilet or understanding instructions can complicate the process.
+<br>
+For a child with autism, verbalizing the urge to go or even recognizing it can be challenging. They might not have the words or the confidence to communicate their needs, leading to frustration and accidents.
 <br>
 Similarly, understanding the sequence of steps involved in using the toilet can be confusing, especially if instructions are given too quickly or are not clear enough. This communication gap often results in anxiety and can cause the child to avoid using the toilet altogether.
 
 ### 3. Routine and predictability:
 The transition from diapers to toilet use makes them stressful and might have difficulty adapting to changes in routine. The familiar comfort of diapers represents a consistent and unchanging part of their daily life.
 <br>
-Introducing the toilet involves not just a new skill, but a significant change in their routine, which can be overwhelming and anxiety-inducing. Adapting to this change means facing new sensations, unfamiliar processes, and different expectations, all of which can be difficult to comprehend and accept. Any deviation from their established routine can lead to resistance, meltdowns, or regression.
+Introducing the toilet involves not just a new skill, but a significant change in their routine, which can be overwhelming and anxiety-inducing.
+<br>
+Adapting to this change means facing new sensations, unfamiliar processes, and different expectations, all of which can be difficult to comprehend and accept. Any deviation from their established routine can lead to resistance, meltdowns, or regression.
 
 ### 4. Anxiety and fear:
-Fear of the unknown or negative past experiences can heighten anxiety around toilet use. Negative past experiences, such as a loud toilet flush that startled them or an uncomfortable experience with the cold seat, can create lasting impressions that further compound this fear. 
+Fear of the unknown or negative past experiences can heighten anxiety around toilet use. 
+<br>
+Negative past experiences, such as a loud toilet flush that startled them or an uncomfortable experience with the cold seat, can create lasting impressions that further compound this fear. 
 <br>
 The memory of these unpleasant sensations can cause the child to associate the toilet with distress, making them resistant to attempts at toilet training.
 
@@ -102,4 +110,5 @@ To ensure a cohesive and supportive approach, make sure to maintain confidential
 Toilet training children with autism necessitates a thoughtful, strategic approach. By understanding the unique challenges and implementing tailored strategies, parents, caregivers, and professionals can facilitate a smoother transition and achieve successful outcomes. It may be complex, but with patience, collaboration, and empathy, children can reach this milestone which is essential with support and confidence.
 
 <br>
+
 ### Stakeholders can effectively address the challenges of toilet training for children with autism by adopting these strategic and confidential approaches, ensuring a positive and successful experience.
