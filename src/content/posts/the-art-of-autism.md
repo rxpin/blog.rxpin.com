@@ -29,20 +29,20 @@ Autistic individuals often display exceptional attention to detail and a strong 
 ***
 ## Distinctive Characteristics of Autistic Art 
 The art created by individuals with autism often stands out due to its distinctive qualities:
-- **Attention to Detail:** Autistic artists frequently exhibit extraordinary attention to detail. Their works often feature complex patterns, vibrant colors, and exacting precision that captivates viewers.
+* **Attention to Detail:** Autistic artists frequently exhibit extraordinary attention to detail. Their works often feature complex patterns, vibrant colors, and exacting precision that captivates viewers.
 
-- **Unique Perspectives:** Autistic artists offer fresh and unconventional perspectives. Their art challenges conventional aesthetics and invites viewers to see the world through a different lens.
+* **Unique Perspectives:** Autistic artists offer fresh and unconventional perspectives. Their art challenges conventional aesthetics and invites viewers to see the world through a different lens.
 
-- **Emotional Expression:** Art can serve as an intense emotional outlet for individuals with autism. Through their creations, they convey deep feelings and complex inner worlds, offering insights into their experiences.
+* **Emotional Expression:** Art can serve as an intense emotional outlet for individuals with autism. Through their creations, they convey deep feelings and complex inner worlds, offering insights into their experiences.
 
-- **Repetitive Elements:** Some autistic artists explore repetitive themes, which reflect their interests and can serve as a therapeutic practice.
+* **Repetitive Elements:** Some autistic artists explore repetitive themes, which reflect their interests and can serve as a therapeutic practice.
 ***
 ## Notable Autistic Artists
 Several autistic artists have gained recognition for their exceptional contributions to the art world. Here are a few examples:
 * **Stephen Wiltshire:** Wiltshire is renowned for his ability to draw detailed cityscapes from memory after only brief observation. His works have been exhibited globally, showcasing his incredible talent and photographic memory.
-<br>
+
 * **Jessica Park:** Park's vibrant paintings often depict architectural landmarks and celestial themes. Her use of color and detail has garnered admiration and highlights her unique artistic vision.
-<br>
+
 * **Donna Williams:** An accomplished artist, author, and musician, Williams explored themes of identity and sensory experiences in her work, offering a deeply personal perspective on life with autism.
 ***
 ## The Role of Art in Autism Advocacy 
