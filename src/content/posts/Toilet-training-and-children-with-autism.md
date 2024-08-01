@@ -4,7 +4,7 @@ author: Stuti S.
 title: Toilet training and children with autism
 description: "To give a professional, confidential guide for parents, caregivers, and professionals of toilet training for children with autism, offering insights and practical strategies in the field." 
 image:
-  url: "https://images.unsplash.com/photo-1618580747643-7ecc7240ba4e?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  url: "[https://images.unsplash.com/photo-1618580747643-7ecc7240ba4e?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D](https://www.istockphoto.com/photo/mother-training-her-son-to-use-potty-gm1028440138-275690517?utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Ftoilet-training&utm_medium=affiliate&utm_source=unsplash&utm_term=toilet+training%3A%3A%3A)"
   alt: "#"
 tags: ["HTML", "Tailwind"]
 ---
