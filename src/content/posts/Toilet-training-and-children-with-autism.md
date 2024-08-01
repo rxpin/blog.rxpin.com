@@ -97,7 +97,7 @@ We should ensure that the child’s privacy and dignity are respected while cond
 <br>
 To ensure a cohesive and supportive approach, make sure to maintain confidential and clear communication with parents, caregivers, specialists, and involved stakeholders. 
 
-
+***
 
 ## Conclusion
 <br>
@@ -105,6 +105,6 @@ Toilet training children with autism necessitates a thoughtful, strategic approa
 <br>
 It may be complex, but with patience, collaboration, and empathy, children can reach this milestone which is essential with support and confidence.
 
-<br>
-
+***
 > **Stakeholders can effectively address the challenges of toilet training for children with autism by adopting these strategic and confidential approaches, ensuring a positive and successful experience.**
+***
