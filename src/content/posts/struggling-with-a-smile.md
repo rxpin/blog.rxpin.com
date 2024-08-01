@@ -18,6 +18,7 @@ Witnessing their struggles can be heartbreaking, but we can never truly grasp th
 > So, in this article, I am speaking on behalf of every dedicated mother who has navigated the challenges of raising a child with autism. 
 *** 
 > **(The story filled with resilience, love, and unwavering determination).**
+<br>
 In this noisy world, there's a quiet corner of the home where Maya finds herself in a place where smiles often hold more weight than words. Navigating a path filled with challenges and triumphs, Maya has learned invaluable lessons about resilience, love, and the extraordinary strength found in small victories through Nirav, a young boy with autism. 
 *** 
 Her son, Nirav, is a bright-eyed child with autism who has shown his mother the true happiness and beauty of embracing who they are. They enjoy a world they've created, finding joy and fulfillment in their unique bond.
@@ -32,7 +33,7 @@ Nirav grew up through a phase of life that seems small to some but is crucial in
 
 **“Communication goes beyond alphas for us,”** Maya pores the unwilling emotions through her eyes, mother’s love. Nirav communicates with his hugs, kisses, laughter, and the eyes that sparkle when he sees or achieves something that brings him joy. These moments are our language of love." Although they have had many challenges throughout the journey, Maya has found vigor in support and in appreciating the uniqueness that defines Nirav.   
 
-"As a mother, I am happy to see the world through Nirav's eyes, I've learned to celebrate the uniqueness of my child,” Maya says, sparkling her bright tears of joy. “The way improves himself to be better day by day with a smile warms my heart. We face every challenge together, knowing that one day we could achieve our dreams.”
+"As a mother, I am happy to see the world through Nirav's eyes, **I've learned to celebrate the uniqueness of my child,”** Maya says, sparkling her bright tears of joy. “The way improves himself to be better day by day with a smile warms my heart. **We face every challenge together, knowing that one day we could achieve our dreams.**”
 
 The unspoken voice expressed with a smile, the challenges with love, and the struggles with resilience are spoiled through NIrav’s story. We espy a world where every small achievement is celebrated with great joy, the smile holding a universe of hope through the eyes of Maya. 
 *** 
