@@ -14,7 +14,7 @@ tags: ["HTML", "Tailwind"]
 
 Autism Spectrum Disorder (ASD) is often highlighted for its challenges and differences, but there's a growing appreciation for the intense creativity and unique artistic expressions of individuals on the spectrum. 
 <br>
-The art produced by those with autism transcends mere self-expression; it breaks down barriers, challenges misconceptions, and introduces a fresh perspective to the world of creativity.
+> **The art produced by those with autism transcends mere self-expression; it breaks down barriers, challenges misconceptions, and introduces a fresh perspective to the world of creativity.**
 *** 
 ## Understanding Autism and the Creative Mind 
 Autism Spectrum Disorder (ASD) affects communication, behavior, and social interactions, leading many individuals to perceive the world distinctively. 
