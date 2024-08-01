@@ -1,8 +1,8 @@
 ---
 pubDate: 2024-08-01
 author: Stuti S.
-title: Because the universe needed a framework
-description: "Embark on a cosmic journey with astro.js, the framework that makes interstellar development a breeze. Pair it with Tailwind CSS for a design that's out of this world"
+title: 10 Essential Apps for Individuals with Autism
+description: "From facilitating communication to promoting learning and helping steer daily routines, these ten essential apps offer significant support to enhance the quality of life"
 image:
   url: "https://images.unsplash.com/photo-1618580747643-7ecc7240ba4e?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   alt: "#"
@@ -10,7 +10,7 @@ tags: ["HTML", "Tailwind"]
 ---
 
 
-# 10 Essential Apps for Individuals with Autism: Enhancing Communication, Learning, and Daily Life
+# Enhancing Communication, Learning, and Daily Life
 
 Almost nothing is done without technology in today’s world. Technology pervades every aspect of our lives, and its influence is growing day by day. 
 
