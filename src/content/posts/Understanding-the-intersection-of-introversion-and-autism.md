@@ -29,7 +29,7 @@ A person with the qualities of personality type or introversion is known as an i
 They enjoy their own company or a countable circle of friends.
 
  ***
-## Understanding autism
+### Understanding autism
 
 **Autism Spectrum Disorder (ASD)** is a broad range of conditions that is characterized by challenges with two-way or even one-way communication, social interactions, and repetitive behaviors.
 People having autism have distinctive ways of interacting with the world, as the condition affects each person dissimilarly.
@@ -53,14 +53,14 @@ This is the basic thing that you should keep in your mind to avoid misconception
 But some sorts of misconceptions is still here and many challenges are being faced by those children.
 **Certainly! Here are the challenges of introversion and Autism Spectrum Disorder (ASD) presented in bullet points:**
 
-## Introversion:
+### 1. Introversion:
 - Social situations can be draining, requiring time alone to recharge.
 - May struggle with assertiveness or initiating conversations.
 - Often misunderstood as being shy or antisocial.
 - Potential difficulty in networking or forming new social connections.
 - Preference for deep, meaningful relationships over superficial interactions.
 
-## Autism Spectrum Disorder (ASD):
+### 2. Autism Spectrum Disorder (ASD):
 - Difficulty understanding social cues, such as body language and facial expressions.
 - Challenges in communication, including verbal and nonverbal aspects.
 - Sensory sensitivities to light, sound, touch, or textures.
@@ -70,10 +70,10 @@ But some sorts of misconceptions is still here and many challenges are being fac
 These challenges highlight the unique aspects of introversion and ASD, emphasizing the need for understanding and support tailored to each individual's needs.
 ***
 
-## Autistic Introverts:
+## * Autistic Introverts:
 The majority of autistic people can be described as introverts as defined by Myers Briggs because our world isn't built with autistic people in mind. In other words, the majority of autistic people are introverted, they prefer alone time and small interactions with people.
 
-## Autistic Extroverts:
+## * Autistic Extroverts:
 There are many autistic extroverts. Autistic people who are also extroverts may find life more difficult than those who are natural introverts if they don't have an autistic or neurodivergent community around them.
 
 So, autistic people may be introverted and extroverted too. It doesn’t mean that being extroverted decreases the difficulties of life. Both autistic people have their difficulties and challenges.
