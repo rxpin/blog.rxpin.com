@@ -48,7 +48,8 @@ Technology is also instrumental in helping individuals with autism develop indep
 Voice-activated assistants like Amazon Alexa and Google Home can assist with routine tasks, such as setting reminders, playing calming music, or controlling home appliances. These devices offer support that can help individuals live more autonomously.
 
 - **Visual Scheduling Apps:**
-Apps like Choiceworks and First Then Visual Schedule allow users to create personalized schedules with visual and audio prompts, aiding in the organization of daily activities and transitions. This visual support is particularly beneficial for those who thrive on routine and predictability.***
+Apps like Choiceworks and First Then Visual Schedule allow users to create personalized schedules with visual and audio prompts, aiding in the organization of daily activities and transitions. This visual support is particularly beneficial for those who thrive on routine and predictability.
+***
  
 ### 5. Community and Social Connectivity
 Social isolation can be a significant issue for individuals with autism. Technology offers various ways to connect and build relationships within supportive communities.
