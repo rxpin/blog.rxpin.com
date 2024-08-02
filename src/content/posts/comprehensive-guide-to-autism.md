@@ -10,14 +10,14 @@ tags: ["HTML", "Tailwind"]
 ---
 
 ***
-# What is Autism?
+# #What is Autism?
 
 Autism, also known as Autism Spectrum Disorder (ASD), is a neurodevelopmental condition that affects behavior and social communication. Individuals with autism have **unique ways of interacting with the world**, as the condition affects each person differently.
 Some individuals with autism face challenges in processing sensory information, communicating, socializing, thinking, moving, or performing daily activities.
 <br>
 Autistic children may exhibit behaviors such as avoiding eye contact, not responding to their names, experiencing fear, and having difficulty interacting with others.
 ***
-## Symptoms of Autism
+## *Symptoms of Autism
 Autism symptoms are not completely seen before two, but after that many symptoms start appearing. Some common signs include:
 
 ### 1. Challenges in social communication:
@@ -34,15 +34,15 @@ Autism symptoms are not completely seen before two, but after that many symptoms
 - Delayed speech and language skills.
 - Unusual speech patterns compared to typically developing children.
 ***
-## Diagnosing Autism
+## *Diagnosing Autism
 Diagnosing autism requires a team of specialists, including psychologists, neurologists, psychiatrists, and speech therapists. The diagnostic process includes:
-### Developmental Screening:
+### 1. Developmental Screening:
 * Regular check-ups during early childhood to monitor development.
-### Comprehensive Evaluation:
+### 2. Comprehensive Evaluation:
 * Detailed observations of behavior.
 * Interviews with parents and caregivers.
 ***
-## Treatments for Autism
+## *Treatments for Autism
 While there is no cure for autism, early arbitration and tailored support can lead to positive outcomes. Treatment plans are individualized and may include:
 ### 1. Behavioral Therapy:
 - Social skills training to improve interaction abilities.
@@ -55,15 +55,15 @@ While there is no cure for autism, early arbitration and tailored support can le
 ### 5. Music Therapy:
 - Use of music to achieve goals such as stress reduction or improved quality of life.
 ***
-## Supporting Individuals with Autism
+## *Supporting Individuals with Autism
 Creating an environment for individuals who are comfortable and supportive with autism to thrive is crucial. Here are some ways to offer support:
-### Acceptance and Understanding:
+### 1. Acceptance and Understanding:
 * Educate yourself and others about autism.
 * Show patience and empathy toward autistic children.
-### Encouraging Independence:
+### 2. Encouraging Independence:
 * Provide opportunities for self-advocacy and decision-making.
 * Celebrate their achievements, no matter how small.
-### Family Support and Self-Care:
+### 3. Family Support and Self-Care:
 * Connect with supportive groups and resources for families.
 * Care for yourself as equal as your children.
 ***
