@@ -80,13 +80,13 @@ The memory of these unpleasant sensations can cause the child to associate the t
 
 ***
 ## Success Journey on Toilet Training 
-> 1. Tommy’s achievement: 
+> 1. **Tommy’s achievement:** 
 Tommy was initially scared of the toilet but was encouraged while his parents used a favorite toy as a reward. As time passed, Tommy became comfortable with the routine.
 
-> 2. Lily’s triumph: 
+> 2. **Lily’s triumph:** 
 Lily struggled a lot while adjusting to the bathroom environment. Her parents helped her with softer lighting, quieter environments, and familiar, calming scents, reducing pressure.
 
-> 3. Sam’s Success: 
+> 3. **Sam’s Success:** 
 Sam’s parents faced communication challenges. They introduced a picture exchange communication system (PECS) to help him indicate when he needed to use the toilet. This approach empowered him and led to a successful toilet training journey.
 
 ***
