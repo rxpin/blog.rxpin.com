@@ -23,7 +23,7 @@ In recent years, technology has become an invaluable tool in supporting individu
 ### 1. Enhancing Communication
 Communication is one of the most significant challenges for many individuals with autism, as traditional verbal communication can be difficult. However, technology has provided alternative methods that facilitate effective interaction.
 - **Augmentative and Alternative Communication (AAC) Devices:**
- AAC devices, such as tablets equipped with specialized apps like <a href="https://blog.rxpin.com/posts/10-essential-apps-for-individuals-with-autism/">Proloquo2Go </a>, assist non-verbal or minimally verbal individuals by converting text or images into speech. These tools enable users to express their needs, desires, and emotions more easily, significantly enhancing their ability to engage with others.
+ AAC devices, such as tablets equipped with specialized apps like <a href="https://blog.rxpin.com/posts/10-essential-apps-for-individuals-with-autism/" font-style="italic">Proloquo2Go </a>, assist non-verbal or minimally verbal individuals by converting text or images into speech. These tools enable users to express their needs, desires, and emotions more easily, significantly enhancing their ability to engage with others.
 - **Speech Generating Devices (SGDs):**
 SGDs offer a range of functionalities from simple text-to-speech apps to complex systems that allow for the customization of voice, language, and output methods. These devices are pivotal in giving a voice to those who otherwise struggle with verbal communication.
 ***
