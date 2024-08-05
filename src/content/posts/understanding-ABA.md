@@ -5,7 +5,7 @@ title: Understanding ABA
 description: "Focuses on enhancing socially significant behaviors by applying behavioral principles, aiming to increase beneficial behaviors and reduce harmful or disruptive ones."
 
 image:
-url: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bluesprigautism.com%2Fblog%2Fa-parents-guide-to-in-home-aba-therapy%2F&psig=AOvVaw1YOJ_sSv5aPyQ6tL52kcON&ust=1722948207555000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCWvJzy3YcDFQAAAAAdAAAAABAE"
+url: "[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bluesprigautism.com%2Fblog%2Fa-parents-guide-to-in-home-aba-therapy%2F&psig=AOvVaw1YOJ_sSv5aPyQ6tL52kcON&ust=1722948207555000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCWvJzy3YcDFQAAAAAdAAAAABAE](https://github.com/rxpin/blog.rxpin.com/blob/main/public/images/articles/full-shot-mother-kid-playing-together.jpg?raw=true)"
   alt: "#"
 tags: ["HTML", "Tailwind"]
 ---
