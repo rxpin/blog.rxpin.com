@@ -5,8 +5,8 @@ title: Understanding ABA
 description: "Focuses on enhancing socially significant behaviors by applying behavioral principles, aiming to increase beneficial behaviors and reduce harmful or disruptive ones."
 
 image:
-  url: "
-  alt: "#"
+  url: "/images/articles/autism-ribbon-123439_1200x1200.png"
+  alt: "The Autism Ribbon"
 tags: ["ABA", "Behavioural Therapy"]
 ---
 
