@@ -5,7 +5,7 @@ title: Understanding ABA
 description: "Focuses on enhancing socially significant behaviors by applying behavioral principles, aiming to increase beneficial behaviors and reduce harmful or disruptive ones."
 
 image:
-  url: "[https://images.unsplash.com/photo-1618580747643-7ecc7240ba4e?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D](https://www.freepik.com/free-photo/full-shot-mother-kid-playing-together_23675128.htm#fromView=search&page=1&position=3&uuid=9eb6e3d0-6637-435b-bfd7-e17c43c7d7c4)"
+url: "https://github.com/rxpin/blog.rxpin.com/blob/main/public/images/articles/full-shot-mother-kid-playing-together.jpg"
   alt: "#"
 tags: ["HTML", "Tailwind"]
 ---
