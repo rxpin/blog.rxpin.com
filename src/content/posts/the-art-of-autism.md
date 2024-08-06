@@ -4,7 +4,7 @@ author: Stuti S.
 title: The Art of Autism
 description: "Appreciation for the intense creativity and unique artistic expressions of individuals on the spectrum."
 image:
-  url: "/images/articles/autism-ribbon-123439_1200x1200.png"
+  url: "/images/articles/autism-day-with-colorful-portrait.jpg"
   alt: "#"
 tags: ["Autism", "art", "creativity"]
 ---
