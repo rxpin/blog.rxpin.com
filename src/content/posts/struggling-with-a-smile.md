@@ -4,7 +4,7 @@ author: Stuti S.
 title: Struggling with a smile
 description: "Even the poignant voice of a mother whose child has been diagnosed with autism comes out with a bright smile."
 image:
-  url: "jordan-whitt-KQCXf_zvdaU-unsplash.jpg"
+  url: "/images/articles/jordan-whitt-KQCXf_zvdaU-unsplash.jpg"
   alt: "#"
 tags: ["HTML", "Tailwind"]
 ---
