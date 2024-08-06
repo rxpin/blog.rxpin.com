@@ -5,9 +5,9 @@ title: Embracing Technology to Support Individuals with Autism
 description: "Creating more inclusive environments and providing new opportunities for personal growth and development for autistic children."
 
 image:
-  url: "https://images.unsplash.com/photo-1618580747643-7ecc7240ba4e?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-  alt: "#"
-tags: ["HTML", "Tailwind"]
+  url: "/images/articles/close-up-boy-touching-digital-tablet-screen-white-desk.jpg"
+  alt: "Technology"
+tags: ["Autism", "Technology", "Creativity"]
 ---
 
 
