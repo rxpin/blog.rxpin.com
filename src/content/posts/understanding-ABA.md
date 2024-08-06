@@ -7,6 +7,8 @@ description: "Focuses on enhancing socially significant behaviors by applying be
 image:
   url: "/images/articles/autism-ribbon-123439_1200x1200.png"
   alt: "The Autism Ribbon"
+  width: "100%"
+  height: "100%"
 tags: ["ABA", "Behavioural Therapy"]
 ---
 
