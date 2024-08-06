@@ -5,8 +5,8 @@ title: Struggling with a smile
 description: "Even the poignant voice of a mother whose child has been diagnosed with autism comes out with a bright smile."
 image:
   url: "/images/articles/jordan-whitt-KQCXf_zvdaU-unsplash.jpg"
-  alt: "#"
-tags: ["HTML", "Tailwind"]
+  alt: "Autism Care"
+tags: ["Autism", "Mother's Care"]
 ---
 
 *** 
