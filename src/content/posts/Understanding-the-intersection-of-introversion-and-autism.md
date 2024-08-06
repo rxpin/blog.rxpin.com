@@ -4,7 +4,7 @@ author: Stuti S.
 title: Intersection of Introversion and Autism
 description: "It is written nowhere that a child having autism is an introvert or an introvert is to be autistic."
 image:
-  url: "https://images.unsplash.com/photo-1618580747643-7ecc7240ba4e?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  url: "/images/articles/front-view-boy-playing-with-game.jpg"
   alt: "#"
 tags: ["Autism", "Introversion"]
 ---
