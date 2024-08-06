@@ -4,9 +4,9 @@ author: Stuti S.
 title: 10 Essential Apps for Individuals with Autism
 description: "From facilitating communication to promoting learning and helping steer daily routines, these ten essential apps offer significant support to enhance the quality of life."
 image:
-  url: "https://images.unsplash.com/photo-1618580747643-7ecc7240ba4e?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-  alt: "#"
-tags: ["HTML", "Tailwind"]
+  url: "/images/articles/medium-shot-child-wearing-headphones.jpg"
+  alt: "Technology"
+tags: ["Autism", "Technology"]
 ---
 
 
