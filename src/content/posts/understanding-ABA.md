@@ -8,8 +8,6 @@ image:
   url: "/images/articles/autism-ribbon-123439_1200x1200.png"
   alt: "The Autism Ribbon"
 tags: ["ABA", "Behavioural Therapy"]
-width: 100%
-height: 100%
 ---
 
 
