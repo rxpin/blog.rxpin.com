@@ -6,7 +6,7 @@ description: "Appreciation for the intense creativity and unique artistic expres
 image:
   url: "/images/articles/autism-day-with-colorful-portrait.jpg"
   alt: "#"
-tags: ["Autism", "art", "creativity"]
+tags: ["Autism", "Art", "Creativity"]
 ---
 
 ***
