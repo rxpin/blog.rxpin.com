@@ -18,19 +18,15 @@ Cognitive Behavioral Therapy (CBT) stands as one of the most effective and exten
 CBT is predicated on several principles that guide its practice, such as:
 1. **Interconnection between thoughts, emotions, and actions:**
 Our thoughts are connected with our emotions, which in turn affect our actions. An individual can change their emotional responses and behavior by interrupting negative thought patterns, and this is what CBT operates on.
-<br>
 
 2. **Problem-focused and Goal-driven:**
 Therapy sessions are based on special problems and certain goals. The therapist and the client work collaboratively towards measurable outcomes to ensure positive changes.
-<br>
 
 3. **Skill Development:**
 Clients are taught skills practically to manage their thoughts and actions that include cognitive reframing, mindfulness, and exposure techniques, among others.
-<br>
 
 4. **Empirical Evidence:**
 Extensive research supports the effectiveness of CBT. It ranks among the most scientifically validated forms of psychotherapy.
-<br>
 
 *** 
 ## The Process of CBT    
@@ -38,23 +34,18 @@ The process of CBT is generally designed to build on the previous stages, involv
 1. **Assessment and Case Conceptualization:**
 The therapist conducts a thorough assessment to understand the client’s issues, background, and goals, helping to create a personalized
 treatment plan.
-<br>
 
 2. **Identification of Negative Thoughts:**
 This often involves keeping a thought journal to track patterns and triggers. This helps clients learn to identify and monitor their automatic negative thoughts.
-<br>
 
 3. **Cognitive Restructuring:**
 The aim is to replace irrational or harmful beliefs with more balanced and constructive ones, achieved through guided exercises. It helps clients challenge and reframe their negative thoughts.
-<br>
 
 4. **Behavioral Activation:**
 Clients engage in activities that align with their values and goals. This step is crucial for breaking the cycle of avoidance and inactivity often seen in depression and anxiety.
-<br>
 
 5. **Skill Building and Relapse Prevention:**
 Clients are equipped with a toolkit of skills to handle future challenges. Therapists also work on strategies to prevent relapse and maintain progress.
-<br>
 
 *** 
 ## Applications and Effectiveness
