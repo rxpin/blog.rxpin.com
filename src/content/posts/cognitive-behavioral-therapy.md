@@ -4,8 +4,8 @@ author: Stuti S.
 title: Cognitive Behavioral Therapy
 description: "CBT isn’t just a therapy—it’s a path to a more mindful, balanced, and fulfilling life."
 image:
-  url: "/images/articles/medium-shot-child-wearing-headphones.jpg"
-  alt: "Technology"
+  url: "/images/articles/close-up-family-discussing-with-therapist.jpg"
+  alt: "Therapy"
 tags: ["Autism", "Behavioral Therapy"]
 ---
 ***
