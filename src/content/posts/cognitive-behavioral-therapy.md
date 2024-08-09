@@ -1,6 +1,14 @@
-
-
-# Cognitive Behavioral Therapy
+---
+pubDate: 2024-08-09
+author: Stuti S.
+title: Cognitive Behavioral Therapy
+description: "CBT isn’t just a therapy—it’s a path to a more mindful, balanced, and fulfilling life."
+image:
+  url: "/images/articles/medium-shot-child-wearing-headphones.jpg"
+  alt: "Technology"
+tags: ["Autism", "Behavioral Therapy"]
+---
+***
 
 # A Profound Journey Toward Inner Well-being
 Cognitive Behavioral Therapy (CBT) stands as one of the most effective and extensively researched forms of psychotherapy. It’s a structured, time-limited approach that focuses on understanding and changing negative patterns of thoughts and behavior. CBT was developed by Dr. Aaron T. Beck in the 1960s and has since evolved into a comprehensive system used to treat a variety of psychological issues, including PTSD, depression, anxiety, and more.
