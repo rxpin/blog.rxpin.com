@@ -61,23 +61,18 @@ Clients are equipped with a toolkit of skills to handle future challenges. Thera
 CBT is versatile and has been adapted to treat a wide range of conditions:
 - **Depression-**
 CBT helps alleviate depressive symptoms and improve mood by addressing negative thought patterns and behaviors.
-<br>
 
 - **Anxiety Disorders-**
 Using CBT techniques such as exposure therapy and cognitive restructuring helps reduce anxiety and panic attacks.
-<br>
 
 - **Post-Traumatic Stress Disorder (PTSD)-**
 Trauma-focused CBT helps individuals process traumatic experiences and reduce PTSD symptoms.
-<br>
 
 - **Eating Disorders-**
 CBT helps address unhealthy eating behaviors that distort body image.
-<br>
 
 - **Substance Abuse-**
 CBT aids in identifying and changing the thought patterns that contribute to addictive behaviors.
-<br>
 
 ***
 
