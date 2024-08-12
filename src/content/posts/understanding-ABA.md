@@ -7,7 +7,7 @@ description: "Focuses on enhancing socially significant behaviors by applying be
 image:
   url: "/images/articles/freepik-export-20240806105040kK6m.jpeg"
   alt: "ABA"
-tags: ["ABA", "Behavioural Therapy"]
+tags: ["ABA", "Behavioral Therapy"]
 ---
 
 
