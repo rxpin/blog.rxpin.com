@@ -4,7 +4,7 @@ author: Stuti S.
 title: Autism Spectrum Disorder in the United States
 description: "A journey of understanding, support, and inclusion."
 image:
-  url: "/images/articles/close-up-child-playing-with-pop-it-toy.jpg"
+  url: ""
   alt: "Autism", "Therapy", "Treatment"
 tags: ["Autism", "Technology"]
 ---
