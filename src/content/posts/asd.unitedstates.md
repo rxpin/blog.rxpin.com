@@ -1,14 +1,13 @@
 ---
-pubDate: 2024-08-16
+pubDate: 2024-08-09
 author: Stuti S.
 title: Autism Spectrum Disorder in the United States
 description: "A journey of understanding, support, and inclusion."
 image:
-  url: ""
-  alt: "Autism", "Therapy", "Treatment"
-tags: ["Autism", "Technology"]
+  url: "/images/articles/close-up-child-playing-with-pop-it-toy.jpg"
+  alt: "Autism"
+tags: ["Autism", "Therapy", "Treatment"]
 ---
-
 ***
 
 # A Comprehensive Look
