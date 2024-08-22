@@ -48,7 +48,7 @@ These organizations are also crucial in raising autism awareness, conducting tra
 
 ## Therapeutic Approaches and Services
 
-Access to specialized therapies, like [Applied Behavior Analysis (ABA)](https://blog.rxpin.com/posts/understanding-aba/), speech therapy, and occupational therapy, remains limited in Nepal, particularly in rural areas. Most services are concentrated in urban centers like Kathmandu, which makes it difficult for families in remote areas to access the care their children require. However, even in many urban areas, [technological](https://blog.rxpin.com/posts/10-essential-apps-for-individuals-with-autism/) advancements are being made, with various machines used for treatment and different apps developed to support the growth of autistic children.
+Access to specialized therapies, like [Applied Behavior Analysis (ABA)](https://blog.rxpin.com/posts/understanding-aba/), speech therapy, and occupational therapy, remains limited in Nepal, particularly in rural areas. Most services are concentrated in urban centers like Kathmandu, which makes it difficult for families in remote areas to access the care their children require. However, even in many urban areas, technological advancements are being made, with various machines used for treatment and different [apps](https://blog.rxpin.com/posts/10-essential-apps-for-individuals-with-autism/) developed to support the growth of autistic children.
 
 Despite these obstacles, progress has been made in expanding services. The establishment of special schools and early intervention centers are steps forward, but there remains a pressing need for more trained professionals and affordable services nationwide.
 *** 
