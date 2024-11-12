@@ -5,7 +5,7 @@ title: Can a Simple Meal Feel Overwhelming? Inside the World of Autism and Taste
 description:
 
 image:
-  url: "/images/articles/close-up-boy-touching-digital-tablet-screen-white-desk.jpg"
+  url: "/images/articles/cozy-cafe-scene-with-couple-conversation-intimate-rainy-warm-nostalgic-inviting_1270611-7785.avif"
   alt: "Autism"
 tags: ["Autism", "Taste Sensitivity" ]
 ---
