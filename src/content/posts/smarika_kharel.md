@@ -1,4 +1,13 @@
-# A Day in the Life: Understanding Autism Through Smarika Kharel’s Story
+---
+pubDate: 2025-01-13
+author: Stuti S.
+title: A Day in the Life_Understanding Neurodiversity Through Smarika Kharel’s Story
+description: "Scope and challanges faced by parents having neurodivergent children."
+image:
+  url: "/images/articles/girl-making-puzzle-table-side-view.jpg"
+  alt: "Neurodiversity"
+tags: ["Autism", "Therapy", "Treatment"]
+---
 
 **Introduction**
 
