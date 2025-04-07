@@ -1,7 +1,7 @@
 ---
-pubDate: 2025-03-17
+pubDate: 2025-04-07
 author: Stuti S.
-title: Part 2 The Evolution of Autism in the ICD
+title: Part 1 The Evolution of Autism in the ICD
 description: "A Journey of Change" 
 image:
   url: "/images/articles/portrait-person-with-rainbow-colors-symbolizing-thoughts-adhd-brain_23-2151475594.jpg"
